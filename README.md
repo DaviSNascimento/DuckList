@@ -37,12 +37,17 @@ Este projeto ainda está em **desenvolvimento** e novas funcionalidades estão s
 
 ## ✅ Próximas Tarefas
 
-- [ ] Melhorar a validação do formulário
+- [ ] Fazer função de listar itens da array em topicos
+- [ ] Criar Funcionalidade de excluir anotação
+- [ ] Criar cards para cada anotação
+- [ ] transformar caixa de todo doing e done responsiva de acordo com o tamanho do card
+- [ ] Aprender e Criar função de arrastar cards
+- [ ] Melhorar a validação do formulário 
 - [ ] Implementar sistema de armazenamento local
 - [ ] Criar uma página de histórico de tarefas
 - [ ] Adicionar animações para o modal
 - [ ] Revisar acessibilidade e usabilidade
-
+> Estilo trello
 ## 📖 Aprenda Mais
 
 Para mais detalhes sobre as tecnologias utilizadas, confira:
